@@ -75,7 +75,7 @@
 - PAT 甲级讲解
 - 洛谷题单讲解 
 
-欢迎提出建议或交流感受（邮箱：isleti@outlook.com）。
+欢迎提出建议或交流意见（邮箱：isleti@outlook.com）。
 
 
 
