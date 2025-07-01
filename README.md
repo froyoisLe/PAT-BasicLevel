@@ -55,7 +55,7 @@
 
 ## 📹 视频入口（待同步）
 
-讲解视频将陆续发布到 B站【[火烤小布丁]([url](https://www.bilibili.com/video/BV1edgDzVESR/?spm_id_from=333.1387.collection.video_card.click&vd_source=551fa619c55a05545e0f402c51d29b5a))】。  
+讲解视频将陆续发布到 B站【[火烤小布丁](https://www.bilibili.com/video/BV1edgDzVESR)】。  
 你也可以仅依靠讲义内容进行自学。
 
 ---
